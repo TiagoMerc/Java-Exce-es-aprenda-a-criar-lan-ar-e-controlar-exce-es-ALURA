@@ -62,3 +62,14 @@
 - Tratar múltiplas exceções com mais de um bloco catch ou usando Multi-Catch utilizando o pipe (**|**).
 
 ### 03. Lançando exceções
+
+**Nesta aula, aprendemos:**
+
+- Como lançar exceções.
+
+- Como atribuir uma mensagem à exceção.
+
+![Lançando exceções - throw](./imgs/prints/Throw.png)
+
+### 04. Checked e Unchecked
+

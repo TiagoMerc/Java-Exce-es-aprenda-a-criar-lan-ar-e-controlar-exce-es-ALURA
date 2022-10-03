@@ -112,3 +112,17 @@ As segundas são as unchecked, e são criadas como descendentes de **RuntimeExce
 - como criar uma exceção nova **SaldoInsuficienteException**;
 
 - como transformar a exceção em checked ou unchecked.
+
+### 06. Finally e try with resources
+
+**Nessa aula, aprendemos:**
+
+- que existe um bloco **finally**, útil para o fechamento de recursos (como conexão);
+
+- quando há um bloco **finally** o bloco **catch** é opcional;
+
+- que o bloco **finally** é sempre executado, sem ou com exceção;
+
+- como usar o try-with-resources. 
+
+![FinallyETryWithResources](./imgs/prints/FinallyETryWithResources.png)

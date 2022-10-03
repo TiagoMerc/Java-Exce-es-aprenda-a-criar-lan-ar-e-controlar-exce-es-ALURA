@@ -104,3 +104,11 @@ Tópicos dessa aula:
 As segundas são as unchecked, e são criadas como descendentes de **RuntimeException**.
 
 ### 05. Aplicando exceções
+
+**Nessa aula, aprendemos e praticamos:**
+
+- como criar um bloco **catch** genérico usando a classe **Exception**;
+
+- como criar uma exceção nova **SaldoInsuficienteException**;
+
+- como transformar a exceção em checked ou unchecked.
